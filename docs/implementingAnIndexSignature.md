@@ -1,2 +1,4 @@
-To implement an index signature, implement either a class or interface containing an index signature.
-To define it, write `index[num: number]: number` to create an index.
+To implement an index signature, first implement either a class or interface.
+Afterwards, here is the steps for implementing the signature.
+
+1. write `index[num: number]: number` to create an index.
