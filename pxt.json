@@ -21,7 +21,9 @@
         "docs/_getFactoryInstance.md",
         "docs/cache.md",
         "docs/exportModifier.md",
-        "docs/fixed-size.md"
+        "docs/fixed-size.md",
+        "docs/helpers.md",
+        "docs/for-loops-vs-for-element-loops.md"
     ],
     "preferredEditor": "tsprj",
     "languageRestriction": "javascript-only"
