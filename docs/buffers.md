@@ -43,7 +43,7 @@ Big Endian stores the most significant byte at the lowest address, it is meant f
 
 *  The Buffer.equals(other: Buffer) method checks if 2 buffers hold the same data
 
-*  The Buffer.chunk(maxSize: number): Buffer[] breaks the buffer into pieces, none exceeding the specified size. 
+*  The Buffer.chunked(maxSize: number): Buffer[] breaks the buffer into pieces, none exceeding the specified size. 
 
 * The Buffer.isReadOnly() method is designed to read if the buffer cannot be modified, otherwise it returns false
 
