@@ -34,3 +34,5 @@ seeing 2 decimals with a ones, tenths, and hundreths digit.
 
 
 **Disclaimer:  Proceed with caution when performing technical procedures related to software extensions, as incorrect steps may result in data loss or application errors.**
+
+**You can find a blog about this here.** https://askkesny.blogspot.com/?page=en-git-developertryingtocodelikeotherofthem-pxt-hardware-programming-docs-1772682036803
