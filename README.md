@@ -5,3 +5,6 @@ have the version updated in case if the extension has been updated again, just p
  
 Here is a an image of the thing I recommend to **not** click.
 <img width="96" height="32" alt="image" src="https://github.com/user-attachments/assets/8b78d665-f095-4e8f-aa79-b51eaa59d124" />
+
+The incorrect way of accessing the extension.
+![Screen recording 2026-03-05 9 41 48 PM](https://github.com/user-attachments/assets/3ce2f31e-3d2b-485c-838a-85529e61e2f1)
