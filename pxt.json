@@ -23,7 +23,10 @@
         "docs/exportModifier.md",
         "docs/fixed-size.md",
         "docs/helpers.md",
-        "docs/for-loops-vs-for-element-loops.md"
+        "docs/for-loops-vs-for-element-loops.md",
+        "docs/fixed_point.md",
+        "docs/helperAnnotation.md",
+        "docs/memory.md"
     ],
     "preferredEditor": "tsprj",
     "languageRestriction": "javascript-only"
