@@ -2,7 +2,6 @@ When you log a function in MakeCode using `console.log(f)`, you might expect to 
 
 ```ts
 function f() { return 123 }
-Instead, the MakeCode simulator prints something like this:
 ```
 
 
