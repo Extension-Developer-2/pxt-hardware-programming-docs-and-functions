@@ -5,11 +5,11 @@
     "dependencies": { 
         "device": "*"
     },
+     "license": "MIT",
     "files": [
         "main.ts",
         "README.md",
         "test.ts",
-        "license": "MIT",
         "docs/buffers.md",
         "docs/allocate.md",
         "docs/binary.md",
