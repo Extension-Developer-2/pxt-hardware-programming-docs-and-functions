@@ -1,7 +1,7 @@
 {
     "name": "pxt-hardware-programming-docs",
     "description": "A documentation teaching core runtime components and methods/properties.",
-    "version": "1.9.2",
+    "version": "1.9.4",
     "dependencies": { 
         "device": "*"
     },
@@ -9,7 +9,7 @@
         "main.ts",
         "README.md",
         "test.ts",
-        "LICENSE.txt",
+        "LICENSE",
         "docs/buffers.md",
         "docs/allocate.md",
         "docs/binary.md",
