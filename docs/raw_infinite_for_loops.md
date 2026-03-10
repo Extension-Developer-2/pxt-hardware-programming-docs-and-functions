@@ -1,1 +1,1 @@
-Raw infinite for loops are loops that schedular never gets control. 
+A raw infinite for loop is a loop that runs synchronously (operating).
