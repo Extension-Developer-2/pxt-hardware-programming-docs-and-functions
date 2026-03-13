@@ -42,7 +42,8 @@
         "docs/underscore_public_properties_and_methods.md",
         "docs/buffers_vs_arrays.md",
         "docs/using_help_annotations_correctly.md",
-        "docs/pxt-compiler.md"
+        "docs/pxt-compiler.md",
+        "docs/_onCodeStart.md"
     ],
     "public": true,
     "preferredEditor": "tsprj",
