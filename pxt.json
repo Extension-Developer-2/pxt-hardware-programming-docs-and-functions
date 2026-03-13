@@ -40,7 +40,9 @@
         "docs/twoCollons.md",
         "docs/raw_infinite_for_loops.md",
         "docs/underscore_public_properties_and_methods.md",
-        "docs/buffers_vs_arrays.md"
+        "docs/buffers_vs_arrays.md",
+        "docs/using_help_annotations_correctly.md",
+        "docs/pxt-compiler.md"
     ],
     "public": true,
     "preferredEditor": "tsprj",
